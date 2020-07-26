@@ -1,0 +1,8 @@
+# Data source that will be used in this project
+
+Data Source:
+1. Wards - https://en.wikipedia.org/wiki/Osaka 
+Data will be scrapped from table "Wards of Osaka" for us have a brief view of Osaka's base distribution on Population and Population density
+
+2. Shops data - Via Foursquare API
+Data will be import via API for us to get the venues within Osaka.
