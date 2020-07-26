@@ -9,7 +9,7 @@ Inspire by https://medium.com/@radialee/capstone-project-the-battle-of-neighborh
 
 ### Further dicussion on the problem
 
-In 2019, Japan's Tourism Hits Record Numbers (credit to: https://www.tourism.jp/en/tourism-database/stats/inbound/), the amount of foreign visitors and their spending during travel also record a huge boost (credit to : https://www.prnewswire.com/news-releases/japans-tourism-hits-record-numbers-in-2019-300979556.html). Although Osaka was consider a well-developed city, visitors may encounter difficult to find desired restaurant. In this study, I hoped to breakdown Osaka as clusters and identify which cluster contains the certain types of restaurant for reference. 
+In 2019, Japan's Tourism Hits Record Numbers (credit to: https://www.tourism.jp/en/tourism-database/stats/inbound/), the amount of foreign visitors and their spending during travel also record a huge boost (credit to : https://www.prnewswire.com/news-releases/japans-tourism-hits-record-numbers-in-2019-300979556.html). Although Osaka was consider a well-developed city, visitors may encounter difficult to find desired restaurant. In this study, I hoped to apply data from Foursquare's location data, apply clustering methods (mainly K-means), breakdown Osaka as clusters and identify which cluster visitors should go for certain type of restaurants. 
 
 
 
